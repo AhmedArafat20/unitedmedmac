@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://united-medmac.com/sitemap.xml
